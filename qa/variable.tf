@@ -1,0 +1,4 @@
+// TERRAMATE: GENERATED AUTOMATICALLY DO NOT EDIT
+
+variable "env_name" {
+}
